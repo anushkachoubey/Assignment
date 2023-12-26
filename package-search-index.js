@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.techshop"},{"l":"controller"},{"l":"dao"},{"l":"entities"},{"l":"exceptions"},{"l":"util"}];updateSearchResults();
